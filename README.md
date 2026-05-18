@@ -21,7 +21,7 @@
 
 **LRC Guide** (internally nicknamed *Digital Stoplight*) is a conversational AI agent that helps students, faculty, and visitors get instant answers about the Language Resource Center — without waiting for a staff member.
 
-It was built and deployed by **Kuladeep Roy**, a data science student working part-time at the LRC, as a practical automation to reduce repetitive front-desk inquiries and improve the student experience.
+It was built and **Kuladeep Roy**, a data science student working part-time at the LRC, as a practical automation to reduce repetitive front-desk inquiries and improve the student experience.
 
 ### What it answers
 - 📍 LRC location and directions within Mackinac Hall
