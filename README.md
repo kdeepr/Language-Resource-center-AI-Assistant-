@@ -27,7 +27,7 @@ It was built and deployed by **Kuladeep Roy**, a data science student working pa
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 User Message (Chat UI)
@@ -62,7 +62,7 @@ User Message (Chat UI)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Tool / Service |
 |---|---|
@@ -74,7 +74,7 @@ User Message (Chat UI)
 
 ---
 
-## 💡 Key Design Decisions
+## Key Design Decisions
 
 **Google Sheets as the Knowledge Base**  
 Instead of hardcoding FAQs into the prompt, the agent fetches a live Google Sheet on every request. This means non-technical staff can update the KB — add new questions, edit hours, update event info — without touching the workflow at all.
@@ -87,7 +87,7 @@ The agent is given a detailed persona — warm, student-centered, never robotic 
 
 ---
 
-## 🚀 Setup & Replication
+## Setup & Replication
 
 ### Prerequisites
 - n8n instance (cloud or self-hosted)
@@ -121,7 +121,7 @@ The agent is given a detailed persona — warm, student-centered, never robotic 
 
 ---
 
-## 📊 Knowledge Base Structure
+## Knowledge Base Structure
 
 The agent reads from a Google Sheet with this column structure:
 
@@ -135,15 +135,8 @@ The agent reads from a Google Sheet with this column structure:
 
 Any column can be referenced by the agent — it's not limited to `answer_text`. Staff can add columns (e.g., `updated_date`, `staff_note`) freely.
 
----
 
-## 📸 Demo
-
-> *(Add a screenshot or GIF of the chat widget in action here)*
-
----
-
-## 🔒 Privacy & Deployment Notes
+## Privacy & Deployment Notes
 
 - No personal student data is collected or stored
 - The knowledge base contains only publicly available LRC information
@@ -152,24 +145,7 @@ Any column can be referenced by the agent — it's not limited to `answer_text`.
 
 ---
 
-## 📁 Repo Structure
-
-```
-lrc-guide-agent/
-├── workflow/
-│   └── LRC_Guide_workflow.json     # Importable n8n workflow (sanitized)
-├── docs/
-│   └── architecture.png            # Flow diagram
-├── kb-template/
-│   └── LRC_KB_template.csv         # Sample knowledge base structure
-├── .env.example                    # Required environment variables
-├── LICENSE
-└── README.md
-```
-
----
-
-## 🤝 Acknowledgments
+## Acknowledgments
 
 Built for the **Language Resource Center** at **Grand Valley State University**.  
 Thanks to the LRC staff for guidance on what students actually ask about.
