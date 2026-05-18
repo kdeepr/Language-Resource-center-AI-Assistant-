@@ -4,7 +4,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![GVSU](https://img.shields.io/badge/GVSU-Language%20Resource%20Center-003087?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
 
 # LRC Guide — AI Front-Desk Assistant
 ### *Language Resource Center · Grand Valley State University*
