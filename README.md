@@ -1,9 +1,9 @@
+# LRC Guide — AI Front-Desk Assistant
+### *Language Resource Center · Grand Valley State University*
+
 <p align="center">
   <img src="images/N8n Workflow.png" alt="LRC chat agent Workflow" width="700"/>
 </p>
-
-# LRC Guide — AI Front-Desk Assistant
-### *Language Resource Center · Grand Valley State University*
 
 
 > An AI-powered chat assistant built with **n8n**, **Google Gemini**, and **Google Sheets** to serve as a 24/7 virtual front desk for the Language Resource Center at GVSU.
