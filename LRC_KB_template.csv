@@ -1,0 +1,13 @@
+Type,Topic,Question_keywords,answer_text,phone,email,link,location,notes
+Hours,Operating Hours,"hours, open, close, when, schedule","The LRC is open [insert hours here]. Hours may vary during breaks and holidays.",,,,,"Update each semester"
+Location,Building Location,"where, location, building, find, directions, room","The LRC is located in [Building Name], Room [Number].",,,,Building Name Room Number,
+Contact,Front Desk Contact,"contact, phone, call, email, reach","You can reach the LRC front desk by phone or email.",(xxx) xxx-xxxx,youremail@university.edu,https://yoursite.edu/lrc/contact,,
+Tech,DILL Software,"DILL, language lab, software, login","DILL is the language lab software used at the LRC. To log in, [insert steps].",,,,,
+Tech,Panopto,"Panopto, recording, lecture, video","Panopto is used for recording and accessing lectures. [Insert instructions].",,,,,
+Tech,VR Headsets,"VR, virtual reality, headset, borrow","VR headsets are available for checkout at the front desk. [Insert policy].",,,,,
+Rules,Food and Drink,"food, drink, eat, water, coffee, snack","Food and drinks are [allowed/not allowed] in the LRC. [Insert rule].",,,,,
+Rules,Noise,"noise, quiet, loud, talking, group","The LRC is a [quiet/collaborative] space. [Insert noise guidelines].",,,,,
+Rules,Check-In,"check in, sign in, register, arrival","When you arrive, please [insert check-in process].",,,,,
+Events,Conversation Tables,"conversation table, practice, speaking, talk","Conversation tables are held [insert schedule]. They are open to all students learning [languages].",,,,,
+Events,Cultural Events,"event, culture, film, trivia, workshop","The LRC hosts various cultural events throughout the semester. Check the calendar for upcoming events.",,,https://your-events-calendar-link.com,,
+Resources,Tutoring,"tutor, help, practice, support","Tutoring and language practice support is available through [insert resource]. Contact the front desk for details.",,,,,
